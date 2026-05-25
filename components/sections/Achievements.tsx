@@ -34,7 +34,7 @@ const STATS: Stat[] = [
   { value: 4,    suffix: '+', label: 'Projects Built',        color: '#00d4ff' },
   { value: 1,    suffix: '',  label: 'Internship Completed',  color: '#7c3aed' },
   { value: 2027, suffix: '',  label: 'Expected Graduation',   color: '#8b5cf6' },
-  { value: 7,    suffix: '.0',label: 'Current CGPA',          color: '#f59e0b' },
+  { value: 8,    suffix: '.0',label: 'Current CGPA',          color: '#f59e0b' },
 ];
 
 interface Achievement {
