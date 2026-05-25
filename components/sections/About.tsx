@@ -157,7 +157,7 @@ export default function About() {
               animate={inView ? { opacity: 1, x: 0 } : {}}
               transition={{ delay: 0.7, duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
             >
-              <p className="font-display text-2xl font-bold gradient-text">7.1</p>
+              <p className="font-display text-2xl font-bold gradient-text">8.0</p>
               <p className="font-mono text-[0.58rem] tracking-widest uppercase text-text-muted mt-0.5">
                 CGPA
               </p>
